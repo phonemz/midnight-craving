@@ -1,10 +1,1 @@
-## Feast Flow
-
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
-
-To run the devserver:
-```
-npm install
-npm run dev
-```
+A simple web app built with typescript created to solve our daily late-night food ordering struggle at school. Instead of collecting orders manually in group chats, this app lets everyone submit their orders in one place, making the process easier, faster, and more organized.
